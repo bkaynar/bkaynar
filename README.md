@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaynarburak&label=Profile%20views&color=0e75b6&style=flat" alt="kaynarburak" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/kaynarburak](https://github.com/kaynarburak)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/github)
 
-- 📝 I regularly write articles on [https://medium.com/@bkaynar1998](https://medium.com/@bkaynar1998)
+- 📝 I regularly write articles on [Medium](https://medium.com/@bkaynar1998)
 
 - 📫 How to reach me **kaynarburak@outlook.com**
 
