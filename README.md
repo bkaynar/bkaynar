@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@bkaynar1998)
 
-- 📫 How to reach me **kaynarburak@outlook.com**
+- 📫 How to reach me **burak@burakkaynar.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
