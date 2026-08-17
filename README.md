@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaynarburak&label=Profile%20views&color=0e75b6&style=flat" alt="kaynarburak" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/bkaynar)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@bkaynar1998)
 
